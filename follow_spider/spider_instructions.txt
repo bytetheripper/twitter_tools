@@ -1,5 +1,7 @@
-To use:
+Make sure your user credentials are filled into the creds.py file.
+You may have to copy/paste the creds.py into the follow_spider directory.
 
+To use, run this from the command line:
 python tweet_spider.py 
 
 You will be prompted to enter the Twitter handle.
