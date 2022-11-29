@@ -1,0 +1,7 @@
+To use:
+
+python tweet_spider.py 
+
+You will be prompted to enter the Twitter handle.
+Enter without the "@" symbol at the beginning.
+Go have a few cups of tea because it's going to take a while.
